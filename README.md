@@ -1,6 +1,8 @@
 # sound-wave
-![]https://imgur.com/a/nrMXdrf
+![Imugur](https://imgur.com/a/nrMXdrf)
+
         **Figure 1**
+
 我是以個人歌聲下去錄製歌曲——《刻在你心底的名字》，在 command line 輸入
 sound(y,fs)就可以播放了 XDD。
 • Figure1 代表聲音的震蕩幅度，一開始沒有聲音震蕩波係數為 0，之後會根據音頻高
